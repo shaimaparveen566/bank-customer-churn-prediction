@@ -25,9 +25,6 @@ env/
 .idea/
 
 
-# Generated machine learning artifacts
-churn_model.joblib
-
 # Python-generated evaluation files
 classification_report.txt
 model_comparison.csv
