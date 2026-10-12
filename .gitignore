@@ -1,0 +1,39 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Environment variables and secrets
+.env
+
+# Test and tool caches
+.pytest_cache/
+.mypy_cache/
+
+# IDE settings
+.idea/
+
+
+# Generated machine learning artifacts
+churn_model.joblib
+
+# Python-generated evaluation files
+classification_report.txt
+model_comparison.csv
+
+
+# Local backup
+app_backup.py
+
+.vscode/
