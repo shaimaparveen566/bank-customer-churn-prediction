@@ -4,11 +4,6 @@
 
 ChurnIQ is a machine learning project that predicts whether a bank customer is likely to leave the bank. It uses customer information to identify patterns associated with churn and presents predictions through an interactive Streamlit web application.
 
-## 🌐 Live Demo
-
-Try the Bank Customer Churn Prediction web application:
-
-**[Launch ChurnIQ Dashboard](https://customer-churn-prediction-6jyxguiyongqmmrvtscrad.streamlit.app/)**
 
 ## Problem Statement
 
